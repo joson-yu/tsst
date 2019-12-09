@@ -9,4 +9,7 @@ public class MyController {
         System.out.println("hello");
         System.out.println("OK,I write here!");
     }
+    public void init(){
+        System.out.println("初始化");
+    }
 }
