@@ -10,6 +10,6 @@ public class MyController {
         System.out.println("OK,I write here!");
     }
     public void init(){
-        System.out.println("初始化");
+        System.out.println("我在远程编写的代码！");
     }
 }
